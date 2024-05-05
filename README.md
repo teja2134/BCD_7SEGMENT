@@ -56,4 +56,4 @@ module segment7(
 ~~~    
 # OUTPUT:
 
-    ![BCD](https://github.com/teja2134/BCD_7SEGMENT/assets/161149578/17d23b2d-1b69-4569-82be-4de11a4890fc)
+![BCD](https://github.com/teja2134/BCD_7SEGMENT/assets/161149578/17d23b2d-1b69-4569-82be-4de11a4890fc)
